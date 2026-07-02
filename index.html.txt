@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Lovyra Terms of Service</title>
+
+<style>
+body{
+    background:#ffe6f0;
+    font-family:Arial,sans-serif;
+    color:#444;
+    max-width:900px;
+    margin:auto;
+    padding:40px;
+    line-height:1.8;
+}
+
+h1{
+    color:#ff4f93;
+}
+
+h2{
+    color:#ff6aa8;
+}
+
+.box{
+    background:white;
+    padding:30px;
+    border-radius:20px;
+    box-shadow:0 0 20px rgba(255,105,180,.2);
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="box">
+
+<h1>💗 Lovyra Terms of Service</h1>
+
+<p>Last Updated: July 2026</p>
+
+<h2>1. Acceptance</h2>
+
+<p>By using Lovyra, you agree to these Terms of Service.</p>
+
+<h2>2. Usage</h2>
+
+<p>Users must follow Discord's Terms of Service and Community Guidelines.</p>
+
+<h2>3. Data</h2>
+
+<p>Lovyra may store necessary Discord IDs and server information required for bot features.</p>
+
+<h2>4. Abuse</h2>
+
+<p>Abusing, exploiting, or attempting to disrupt Lovyra may result in restricted access.</p>
+
+<h2>5. Availability</h2>
+
+<p>Lovyra is provided "as is" without any guarantee of uptime.</p>
+
+<h2>6. Changes</h2>
+
+<p>These Terms may be updated at any time without prior notice.</p>
+
+</div>
+
+</body>
+</html>
